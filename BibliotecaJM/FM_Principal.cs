@@ -22,6 +22,7 @@ namespace BibliotecaJM
         {
             usuarioActual.Nombre = "admin";
             usuarioActual.TipoUsuario = "A";
+            String hola = "hola commit1";
         }
         private void tsbLectores_Click(object sender, EventArgs e)
         {
